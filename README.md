@@ -42,6 +42,7 @@ python financial_forecasting.py
 ## Project Structure
 
 ├── financial_forecasting.py   # Main script
+
 └── README.md                  # Project documentation
 
 
