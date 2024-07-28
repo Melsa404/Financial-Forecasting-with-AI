@@ -1,8 +1,11 @@
-# AI-Driven Financial Forecasting Tool
+![image](https://github.com/user-attachments/assets/76ea72b3-806a-4a89-9670-56c8a0ca1632)# AI-Driven Financial Forecasting Tool
 
 ## Description
 
 This project is an AI-driven tool designed to predict future stock prices using historical stock price data. It leverages Long Short-Term Memory (LSTM) neural networks, a type of recurrent neural network (RNN) that excels in modeling time series data. The solution is implemented in Python and utilizes popular libraries such as `yfinance` for data collection, `numpy` and `pandas` for data preprocessing, `scikit-learn` for normalization, and `TensorFlow` for building and training the LSTM model.
+
+Please also find a PPT `Financial Forecasting using AI` for your reference on this project.
+
 
 ## Table of Contents
 
@@ -39,9 +42,11 @@ python financial_forecasting.py
 
 ## Project Structure
 
-├── financial_forecasting.py   # Main script
+├── financial_forecasting.py         # Main script
 
-└── README.md                  # Project documentation
+└── README.md                        # Project documentation
+
+└── Financial Forecasting using AI   # PPT Project Documentation
 
 
 ## Function Descriptions
