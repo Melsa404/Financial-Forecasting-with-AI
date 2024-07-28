@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/76ea72b3-806a-4a89-9670-56c8a0ca1632)# AI-Driven Financial Forecasting Tool
+# AI-Driven Financial Forecasting Tool
 
 ## Description
 
