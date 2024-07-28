@@ -10,8 +10,6 @@ This project is an AI-driven tool designed to predict future stock prices using 
 2. [Usage](#usage)
 3. [Project Structure](#project-structure)
 4. [Function Descriptions](#function-descriptions)
-5. [Enhancements](#enhancements)
-6. [License](#license)
 
 ## Installation
 
